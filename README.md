@@ -7,7 +7,7 @@
 
 1. chrome://extensions/
 2. Modo do desenvolvedor 'ativado'
-3. Joguei a pasta base na tela
+3. Jogue a pasta base na tela
 4. Abra o web.whatsapp.com/
 5. O Botão '2x' irá aparecer
 
