@@ -1,0 +1,15 @@
+.timeButton {
+  color: gray;
+  font-size: 1rem;
+  font-weight: 600;
+  background-color: transparent;
+  border: none;
+}
+
+.timeButton:hover {
+  color: black;
+}
+
+.timeButton:focus {
+  color: green;
+}
